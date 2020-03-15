@@ -1,0 +1,40 @@
+** partial method are private by default. I cant include any access modifier explicitly.
+
+** partial class or struct can contain partial method, non partial class cant 
+
+** partial method consist of 2 parts
+	1. definition 
+	2. implementation 
+
+** implementation for partial method is optional, if we dont provide the implementation, the 
+compiler removes the signature and calls.
+
+** to include declaration and implementation at the same time for a partial method, it will
+compile time error.
+
+** partial method return type must be void.
+
+** partial method can be implemented only once.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

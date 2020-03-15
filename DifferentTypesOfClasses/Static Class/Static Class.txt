@@ -1,0 +1,39 @@
+** Static Class can not be instantiated
+
+** Static Class can not be inherited that means by default sealed
+
+** static class contain only static member 
+
+** static items can only access other static items
+
+** create static constructor to initialize static member, cant use access modifier in 
+static constructor
+
+** kono class er modde data fixed rakte hole or value constant thakbe tokon oi class k static 
+class banabo.
+
+** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

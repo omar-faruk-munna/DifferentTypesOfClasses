@@ -2,7 +2,12 @@
 keo ek jon oi class a kaj korle onno keo access korte pare na, onno karor jodi kono kichu 
 change kora lage then prothom jon oi class k check-in korle 2-jon kaj korte parbe, ai 
 problem theke mukti pabar jonno c# team partial class er concept anche, class er ek ekta 
-part alada alada partial class a rakle ek sathe sobai kaj korte parbe.
+part alada alada partial class a rakle, alada alada part a ek jon kore kaj korte parbe, 
+karon ekta file a ek sathe ek joner besi kaj korte pare na, so ek ta file er modde 100 kore 400 ta
+method ache crud er jonno, suppose kono karone create and update a problem holo, sob gula code 
+1 ta file a thakle pblm hobe j, jehetu ek jon kaj korte parbe tai hoy update er kaj korte hobe
+noyto create er kaj korte hobe, kintu partial class use korle update and create alada alda 2 ta file a
+thakto, so ek sathe 2 ta bugs e solve kora jeto.
 
 ** ekta class k choto choto ongse vag korar jonno partial keyword use kora hoy
 
