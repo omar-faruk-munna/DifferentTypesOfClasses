@@ -1,0 +1,34 @@
+** real life a, amra jokon boro project a kaj kori, ekta class er modde onk kichu thake, 
+keo ek jon oi class a kaj korle onno keo access korte pare na, onno karor jodi kono kichu 
+change kora lage then prothom jon oi class k check-in korle 2-jon kaj korte parbe, ai 
+problem theke mukti pabar jonno c# team partial class er concept anche, class er ek ekta 
+part alada alada partial class a rakle ek sathe sobai kaj korte parbe.
+
+** ekta class k choto choto ongse vag korar jonno partial keyword use kora hoy
+
+** 3 ta partial class ache, er modde jekono 1 tay kono variables, properties declare
+korle baki partial class gulateo access kora jay
+
+** partial class gular access modifier same hote hoy
+
+** 3 ta partial class ache, er modde jekono 1 tay onno kono class or interface 
+inherit korle baki partial class gulateo access hoye jay
+
+** 3 ta partial class ache, er modde jekono 1 tay jodi sealed or abstract keyword use 
+kori then baki partial class gulao sealed or abstract hoye jay
+
+** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
