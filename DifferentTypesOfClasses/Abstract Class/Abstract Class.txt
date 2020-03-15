@@ -1,0 +1,24 @@
+
+** abstract class can only be used as base or parent class
+** abstract keyword is used to create a abstract class.
+** abstract class is incomplete
+** abstract class can not be instantiated
+** abstract class may contain abstract members and non-abstract members but not mandatory.
+** abstract class can only be used as base or parent class
+** abstract class can not be sealed because abstract means it's a base or parent class and 
+	sealed means it's can not be base or parent class
+** non-abstract class derived from abstract class muct provide implementation 
+	for all inherited abstract members.
+
+
+	If a class inherit abstract class, there are 2 option available for that class
+1. provide implementation for all abstract member
+2. If not wish to provide implementation for all abstract member then the class has to be mark
+	as abstract.
+
+
+
+
+
+
+
